@@ -1,9 +1,10 @@
 <p align="center" style="text-align:center;">
     <img src="https://cloudflare-ipfs.com/ipfs/bafkreiagxtv2bwwbfvnqa4vuwyxwkko3ibgvwuowncvcy6yrg7nh57bzfm" width="64px" />
 </p>
-<h1 align="center">InstaShare</h1>
+<h1 align="center">Share-It</h1>
 <p align="center">Instant File Sharing Apps powered by IPFS Networks. Build with Vue 3 and ViteJS.</p>
 
+![demo](ushare-it.vercel.app.png)
 <div align="center">
 
 [![Repository](https://img.shields.io/badge/github-insta--share-green?logo=github&style=flat)](https://github.com/nyancodeid/insta-share)
@@ -38,12 +39,3 @@ $ npm run build
 ```
 
 ## Screenshot
-This image also hosted on IPFS Network using this web-app.
-
-<p align="center">
-    <img alt="InstaShare" src="https://cloudflare-ipfs.com/ipfs/bafkreic7tt7j2upgds3kgs6wldu6ryzer3hrxs5sp2rur4f6zgqzr4ndsy" style="width: 80%" />
-    <img alt="InstaShare" src="https://cloudflare-ipfs.com/ipfs/bafkreifdzvh24hddxqxodt336vyt75tlxlmodbyisqvy2xreqfk3nruk6m" style="width: 80%" />
-</p>
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnyancodeid%2Finsta-share.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnyancodeid%2Finsta-share?ref=badge_large)
