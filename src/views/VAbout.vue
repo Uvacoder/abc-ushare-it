@@ -2,13 +2,13 @@
   <section id="content">
     <div class="main">
       <section id="about">
-        <h1>abc InstaShare<span class="emoji">⚡</span></h1>
-        <p>an Instant File Sharing powered by IPFS Protocol. Build with <a href="https://v3.vuejs.org/" target="_blank" rel="noopener">Vue 3</a> and
+        <h1>Share-It<span class="emoji">⚡</span></h1>
+        <p>Instant File Sharing powered by IPFS Protocol. Build with <a href="https://v3.vuejs.org/" target="_blank" rel="noopener">Vue 3</a> and
           <a href="https://vitejs.dev/" target="_blank" rel="noopener">ViteJS</a>.</p>
         <p>InstaShare (Instant Share) is a simple web-based application that simply upload your files to Interplanetary File System (IPFS) Network using <a href="https://infura.io/product/ipfs" target="_blank" rel="noopener">Infura API</a>. File uploads cannot be deleted, hacked, edited, never saved to any server (decentralized) + are only accessable by using a hash / cid (content identifier).</p>
         <p>InstaShare build with Latest Web Technology that makes hopefully can access this app even in offline mode (cache-first). And the other cool thing is PWA (Progressive Web App) makes this app installable on Android devices, allow us to use this app to run native-like on an Android.</p>
 
-        <p>Build with abc<i-ri-heart-2-fill class="icon-love" /> by <a href="https://github.com/nyancodeid" rel="noopener" class="author">NyanCodeID</a></p>
+        <p>Build with abc<i-ri-heart-2-fill class="icon-love" /> by <a href="https://github.com/uvacoder" rel="noopener" class="author">uvacoder</a></p>
       </section>
     </div>
   </section>
