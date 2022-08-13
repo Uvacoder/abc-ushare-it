@@ -1,14 +1,14 @@
 <template>
   <header id="header">
     <div class="header-title">
-      <h1>InstaShare abc<span class="emoji">⚡</span></h1>
+      <h1>Share-It<span class="emoji">⚡</span></h1>
       <span>Instant File Sharing powered by IPFS Protocol</span>
     </div>
     <div class="header-menu">
       <nav class="header-navbar">
         <router-link :to="{ name: 'home' }" active-class="active" exact>Home</router-link>
 
-        <a href="https://github.com/nyancodeid/insta-share" target="_blank" rel="noopener">Github</a>
+        <a href="https://github.com/uvaccoder/abc-share-it" target="_blank" rel="noopener">Github</a>
 
         <router-link :to="{ name: 'about' }" active-class="active" exact>About</router-link>
 
