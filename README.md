@@ -4,7 +4,7 @@
 <h1 align="center">Share-It</h1>
 <p align="center">Instant File Sharing Apps powered by IPFS Networks. Build with Vue 3 and ViteJS.</p>
 
-![demo](ushare-it.vercel.app.png)
+![demo](screenshot-ushare-it.vercel.app.png)
 <div align="center">
 
 [![Repository](https://img.shields.io/badge/github-insta--share-green?logo=github&style=flat)](https://github.com/nyancodeid/insta-share)
